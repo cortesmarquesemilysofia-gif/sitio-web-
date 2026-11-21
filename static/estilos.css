@@ -1,0 +1,27 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #e8f5f1;
+}
+.tarjeta {
+width: 320px;
+margin: 80px auto;
+padding: 25px;
+background-color: white;
+border-top: 6px solid #0E7C66;
+border-radius: 10px;
+text-align: center;
+}
+input, button {
+width: 90%;
+padding: 8px;
+margin: 6px 0;
+}
+button {
+background-color: #0E7C66;
+color: white;
+border: none;
+cursor: pointer;
+}
+.error {
+color: #b00020;
+}
